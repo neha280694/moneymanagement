@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Money Management</string>
+    <array name="list">
+        <item>
+            cash
+        </item>
+        <item>
+            card
+        </item>
+    </array>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">36dp</dimen>
+    <dimen name="txt_very_small">12dp</dimen>
+    <dimen name="text_small">14dp</dimen>
+    <dimen name="text_normal">18dp</dimen>
+    <dimen name="text_large">20dp</dimen>
+    <dimen name="toolbar_txt">25dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="normal_margin">15dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+    <dimen name="twenty_five">27dp</dimen>
+    <dimen name="thirty">35dp</dimen>
+
+    <dimen name="img_size">70dp</dimen>
+    <dimen name="left_image_size">55dp</dimen>
+    <dimen name="img_size_half">30dp</dimen>
+    <dimen name="img_size_large">110dp</dimen>
+    <dimen name="txt_size_dashboard">135dp</dimen>
+    <dimen name="dashboard_size">29dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="btn_width">300dp</dimen>
+    <dimen name="img_size_splash">410dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="sixty">65dp</dimen>
+</resources>
